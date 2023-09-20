@@ -1,0 +1,15 @@
+/Users/carsonmiller/Desktop/MIS 221/221code/ta/lab4example_fall23/bin/Debug/net6.0/lab4example_fall23
+/Users/carsonmiller/Desktop/MIS 221/221code/ta/lab4example_fall23/bin/Debug/net6.0/lab4example_fall23.deps.json
+/Users/carsonmiller/Desktop/MIS 221/221code/ta/lab4example_fall23/bin/Debug/net6.0/lab4example_fall23.runtimeconfig.json
+/Users/carsonmiller/Desktop/MIS 221/221code/ta/lab4example_fall23/bin/Debug/net6.0/lab4example_fall23.dll
+/Users/carsonmiller/Desktop/MIS 221/221code/ta/lab4example_fall23/bin/Debug/net6.0/lab4example_fall23.pdb
+/Users/carsonmiller/Desktop/MIS 221/221code/ta/lab4example_fall23/obj/Debug/net6.0/lab4example_fall23.csproj.AssemblyReference.cache
+/Users/carsonmiller/Desktop/MIS 221/221code/ta/lab4example_fall23/obj/Debug/net6.0/lab4example_fall23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carsonmiller/Desktop/MIS 221/221code/ta/lab4example_fall23/obj/Debug/net6.0/lab4example_fall23.AssemblyInfoInputs.cache
+/Users/carsonmiller/Desktop/MIS 221/221code/ta/lab4example_fall23/obj/Debug/net6.0/lab4example_fall23.AssemblyInfo.cs
+/Users/carsonmiller/Desktop/MIS 221/221code/ta/lab4example_fall23/obj/Debug/net6.0/lab4example_fall23.csproj.CoreCompileInputs.cache
+/Users/carsonmiller/Desktop/MIS 221/221code/ta/lab4example_fall23/obj/Debug/net6.0/lab4example_fall23.dll
+/Users/carsonmiller/Desktop/MIS 221/221code/ta/lab4example_fall23/obj/Debug/net6.0/refint/lab4example_fall23.dll
+/Users/carsonmiller/Desktop/MIS 221/221code/ta/lab4example_fall23/obj/Debug/net6.0/lab4example_fall23.pdb
+/Users/carsonmiller/Desktop/MIS 221/221code/ta/lab4example_fall23/obj/Debug/net6.0/lab4example_fall23.genruntimeconfig.cache
+/Users/carsonmiller/Desktop/MIS 221/221code/ta/lab4example_fall23/obj/Debug/net6.0/ref/lab4example_fall23.dll

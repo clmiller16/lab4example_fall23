@@ -20,7 +20,7 @@ static int GetMenuChoice(){
 
 static void DisplayMenu(){
     Console.Clear();
-    Console.WriteLine("Enter 1 to purchase Cheddar\nEnter 2 to purchase Swiss\nEnter 3 to exit");
+    Console.WriteLine("Enter 1 to purchase cheddar\nEnter 2 to purchase swiss\nEnter 3 to exit");
 }
 
 static bool IsValidChoice(string userChoice) {
